@@ -1,3 +1,4 @@
 # proyecto
 nuestro proyecto Organic ice cream 
-nicoll puentes y karen vera
+este es el comienzo del proyecto 
+karen vera y nicoll puentes
